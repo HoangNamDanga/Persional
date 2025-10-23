@@ -1,0 +1,12 @@
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Packages
+*.nupkg
+
+# User files
+*.user
+*.suo
