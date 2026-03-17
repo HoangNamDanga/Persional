@@ -1,0 +1,4 @@
+git rm -r --cached **/bin/
+git rm -r --cached **/obj/
+git commit -m "chore: remove build artifacts from git"
+git push origin main
